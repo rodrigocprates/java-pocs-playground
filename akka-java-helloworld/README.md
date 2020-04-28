@@ -10,6 +10,6 @@ Send message to an Actor:
 
 > ask() - send message and expect a message
 
-> forward() - similar to ask(), but send of the message is kept in the message.
+> forward() - similar to ask(), but sender of the message is kept in the message.
 
 See also Play Framework (built on Akka): https://www.playframework.com/
