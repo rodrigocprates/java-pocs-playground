@@ -24,3 +24,6 @@ hs_err_pid*
 /spring/spring-webflux/
 
 .idea
+
+*/target
+*/target/*
