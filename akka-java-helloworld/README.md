@@ -7,7 +7,9 @@ Actors receive and send messages from any other actor in the Actor System.
 
 Send message to an Actor:
 > tell() - send message and don't expect a response
+
 > ask() - send message and expect a message
+
 > forward() - similar to ask(), but send of the message is kept in the message.
 
 See also Play Framework (built on Akka): https://www.playframework.com/
